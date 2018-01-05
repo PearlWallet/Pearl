@@ -12,7 +12,7 @@ We will open the source code in May 2018 according to the planned road map.
 
 [Official Website](https://pearlwallet.io)
 
-[White paper]()
+[White paper](https://github.com/PearlWallet/Document/blob/master/PearlWallet_White_Paper_EN.pdf)
 
 RoadMap:
 
