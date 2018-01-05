@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ./media
----
-
 ## Pearl Wallet - The Most Powerful Mobile client on the EOS network.
 
 **We want to do something to make the eos blockchain easy to use.**
